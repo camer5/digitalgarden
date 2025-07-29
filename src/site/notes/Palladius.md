@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/palladius/","tags":["gardenEntry"]}
 ---
 
-
+![monolith.png](/img/user/monolith.png)
 ***
 
 A long time ago Palladius was a profiting jewel, a plane blessed by a god and beautiful in kind. Thriving [[cities\|Cities]], bustling trade routes and deep rich culture. The people of the land harvested rich materials from the ground advanced their technologies and brought to life a whole host of wonders. Watching over this plane was a goddess named [[Estelle\|Estelle]], the god of the sun. Her beautiful form shone over the inhabitants of Palladius providing light food and warmth to this jewel of a plane.  
