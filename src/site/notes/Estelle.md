@@ -5,7 +5,7 @@
 # Estelle
 ***
 
-Estelle was the god of sunlight on [[Palladius\|Palladius]], creating a warming glow of energy that rippled across the plane. Her resplendent form prevented the forces of evil from invading the surface of [[Palladius\|Palladius]] protecting the inhabitancy of [[Palladius\|Palladius]] safe from [[The forces of the night\|The forces of the night]]. 
+	Estelle was the god of sunlight on [[Palladius\|Palladius]], creating a warming glow of energy that rippled across the plane. Her resplendent form prevented the forces of evil from invading the surface of [[Palladius\|Palladius]] protecting the inhabitancy of [[Palladius\|Palladius]] safe from [[The forces of the night\|The forces of the night]]. 
 
 However this all changed upon [[The Day Of Oblivion\|The Day Of Oblivion]] in which she informed the people of [[Palladius\|Palladius]] that there is a war with a creature of unfathomable evil that has come into being and that she must go to help the war effort against them.
 
@@ -30,10 +30,13 @@ Unbeknownst to the god and all of her followers upon her destruction within the 
 >All 4 quotes came from diaries believed to be written upon the following days after [[The Day Of Oblivion\|The Day Of Oblivion]]
 >These extracts have been copied from the archives of the remaining [[Sister religions\|Sister religions]] of Estelle and some of which are partial or incomplete.
 
-The death of Estelle is the current origin theory for [[Stellite\|Stellite]] thus gaining its namesake.
+The death of Estelle is the current origin theory for [[Stellite\|Stellite]] thus gaining its namesake. 
 
 ***
 
+### Post death 
+
+After the death of Estelle the plane of [[Palladius\|Palladius]] has fallen into a permanent twilight where the [[Sun\|Sun]] never sets therefore permanently changing the [[Landscape\|Landscape]] of [[Palladius\|Palladius]]. The lack of this sunlight has lead to the rising of [[The forces of the night\|The forces of the night]], these forces ripped through the commonwealth of [[Palladius\|Palladius]] within the first 100 or so years 
 # Rumours
 
 #### The Sacrament
