@@ -56,7 +56,6 @@ This [[Cults\|cult]] is sited to be one of the possible reasons for a couple of 
 
 ***
 
-<p style="text-align:center;">
 Useful links
 
 - [[Index\|Index]]
