@@ -5,7 +5,7 @@
 # Estelle
 ***
 
-	Estelle was the god of sunlight on [[Palladius\|Palladius]], creating a warming glow of energy that rippled across the plane. Her resplendent form prevented the forces of evil from invading the surface of [[Palladius\|Palladius]] protecting the inhabitancy of [[Palladius\|Palladius]] safe from [[The forces of the night\|The forces of the night]]. 
+Estelle was the god of sunlight on [[Palladius\|Palladius]], creating a warming glow of energy that rippled across the plane. Her resplendent form prevented the forces of evil from invading the surface of [[Palladius\|Palladius]] protecting the inhabitancy of [[Palladius\|Palladius]] safe from [[The forces of the night\|The forces of the night]]. 
 
 However this all changed upon [[The Day Of Oblivion\|The Day Of Oblivion]] in which she informed the people of [[Palladius\|Palladius]] that there is a war with a creature of unfathomable evil that has come into being and that she must go to help the war effort against them.
 
@@ -36,7 +36,10 @@ The death of Estelle is the current origin theory for [[Stellite\|Stellite]] thu
 
 ### Post death 
 
-After the death of Estelle the plane of [[Palladius\|Palladius]] has fallen into a permanent twilight where the [[Sun\|Sun]] never sets therefore permanently changing the [[Landscape\|Landscape]] of [[Palladius\|Palladius]]. The lack of this sunlight has lead to the rising of [[The forces of the night\|The forces of the night]], these forces ripped through the commonwealth of [[Palladius\|Palladius]] within the first 100 or so years 
+After the death of Estelle the plane of [[Palladius\|Palladius]] has fallen into a permanent twilight where the [[Sun\|Sun]] never sets therefore permanently changing the [[Landscape\|Landscape]] of [[Palladius\|Palladius]]. The lack of this sunlight has lead to the rising of [[The forces of the night\|The forces of the night]], these forces ripped through the commonwealth of [[Palladius\|Palladius]] within the first 100 or so years causing a permanent change to the [[Daily life\|Daily life]] of an average dweller. 
+
+Eventually after many failed attempts the people of [[Palladius\|Palladius]] have managed to stabilize partially and form a few [[Cities of Palladius\|bastions/cities]]. 
+***
 # Rumours
 
 #### The Sacrament
