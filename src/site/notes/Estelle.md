@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/estelle/"}
 ---
 
-
+# Estelle
 ***
 
 Estelle was the god of sunlight on [[Palladius\|Palladius]], creating a warming glow of energy that rippled across the plane. Her resplendent form prevented the forces of evil from invading the surface of [[Palladius\|Palladius]] protecting the inhabitancy of [[Palladius\|Palladius]] safe from [[The forces of the night\|The forces of the night]]. 
@@ -15,12 +15,18 @@ However this all changed upon [[The Day Of Oblivion\|The Day Of Oblivion]] in wh
 
 As stated by this text Estelle left for war and implored in her absence to feast to grant her strength. We know now that this strength given was however not enough. Upon her arrival the usual warm light that Estelle emits was weakened. It is presumed that there was some reassurance from the god to why her light was dimmed but as of current no information regarding this topic has been found.
 
+***
+
 Unbeknownst to the god and all of her followers upon her destruction within the war the creature that defeated her implanted a [[seed of evil\|Seed of evil]]. This very seed fused with her essence, her being, permanently affixing to her form. As time passed this seed grew silently until the very end of [[The Day Of Oblivion\|The Day Of Oblivion]] in which the seed detonated. 
 
 ><span style="color:rgb(112, 48, 160)">"I saw the one I thought untouchable shatter into billions of pieces and with it my ----ow does one return from such ---istation. Our moment of vi--- dashed to nothing but ash--"</span>
+>
 ><span style="color:rgb(112, 48, 160)">" lightning of pure black ripped form her form as she let out a scream so loud it splintered my bones and rendered the sky, shattered and black. </span>
+>
 ><span style="color:rgb(112, 48, 160)">"All I could see with my eyes was the once beautiful sky bleached black as it felt as if another set of eyes stared back"</span>
+>
 ><span style="color:rgb(112, 48, 160)">"then came the storm, a hail of metal sickening to the touch and a mist so cold it burned the essence from your mind and body"</span> 
+>
 >All 4 quotes came from diaries believed to be written upon the following days after [[The Day Of Oblivion\|The Day Of Oblivion]]
 >These extracts have been copied from the archives of the remaining [[Sister religions\|Sister religions]] of Estelle and some of which are partial or incomplete.
 
