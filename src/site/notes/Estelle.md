@@ -56,8 +56,7 @@ This [[Cults\|cult]] is sited to be one of the possible reasons for a couple of 
 
 ***
 
-<p style="text-align:center;">
-<u><span style="color:rgb(192, 0, 0)">Useful links</span><u/>
+<u>Useful links<u/>
 
 - [[Index\|Index]]
 - [[Palladius\|Palladius]]
