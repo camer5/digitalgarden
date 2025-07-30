@@ -58,7 +58,7 @@ This [[Cults\|cult]] is sited to be one of the possible reasons for a couple of 
 
 Useful links
 
-- [[Index\|Index]]
+- [[Link Index\|Link Index]]
 - [[Palladius\|Palladius]]
 - [[Cities of Palladius\|Cities of Palladius]]
 - [[The Stygian City\|The Stygian City]]
