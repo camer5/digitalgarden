@@ -25,8 +25,9 @@ What is left of Palladius now clings onto life within bastions and fortresses ho
 
 ***
 
- If you wish to search for specific information head to the [[Index\|Index]]
+ If you wish to search for specific information head to the [[Index#Index\|Index]]
+ 
 
-[[Index\|Index]]
+
 
 
