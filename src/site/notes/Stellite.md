@@ -6,7 +6,7 @@
 # Stellite
 ***
 
-![Stellite.png](/img/user/Stellite.png)
+![Stellite picture.png](/img/user/Stellite%20picture.png)
 ***
 
 ## an overview
