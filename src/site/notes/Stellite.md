@@ -6,7 +6,7 @@
 # Stellite
 ***
 
-![Stellite picture.png](/img/user/Stellite%20picture.png)
+![Stellite picture.png](https://i.ibb.co/93zDMpwk/Stellite-picture-compressed.png)
 ***
 
 ## an overview
