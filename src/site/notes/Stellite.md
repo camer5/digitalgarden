@@ -6,10 +6,10 @@
 # Stellite
 ***
 
-![Stellite picture.png](https://i.ibb.co/93zDMpwk/Stellite-picture-compressed.png)
+![Stellite picture compressed.png](/img/user/Stellite%20picture%20compressed.png)
 ***
 
-## an overview
+## An overview
 
 Stellite appears to be a metal with otherworldly properties. Many of which are unfavourable to the living. However this material possesses a latent energy within the structure of the metal that makes the use of this material very beneficial. But due to many laws and legislations the usage or even possession of this [[Materials of Palladius\|metal]] has been forbidden and is punishable by death. The [[The Magistrates \|council]] came to this conclusion within the fist years after  [[The Day Of Oblivion\|The Day Of Oblivion]]. 
 ***
