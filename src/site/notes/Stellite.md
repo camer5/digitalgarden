@@ -45,8 +45,20 @@ palladium, 3 charred lions mane mushrooms and 20oz of quick silver. To be taken 
 ***
 
 # Stage 2
-
-
+![Stage two of Stellite poisoning-min.png](/img/user/Stage%20two%20of%20Stellite%20poisoning-min.png)
+>[!Transcript]
+>Within stage two of this corruption the body begins to warp and change as multiple
+organs within the body begin to succumb to the corruption. This material causes harsh 
+changes to the body with most being reversable over long periods of time although 
+costly. But in spite of this there are some benefits to this creeping corruption.
+Other than the quality of living reductions an increase in magical potential has 
+been noted in all patients suffering from this condition, this also covers mental 
+cognition and also some other potentially psychic abilities. Many seek out this level
+of power but ever so slightly over the line and the symptoms begin a harsh runaway
+effect where the user craves more of this material or exposure to it.
+The symptoms of this are generally the same but to a much more severe degree this 
+however is the  last stage in which this is true    
+[[Proffessor Cuperthwait\|Proffessor Cuperthwait]]
 
 
 
