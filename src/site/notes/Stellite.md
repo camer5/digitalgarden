@@ -28,8 +28,8 @@ This corruption progresses in 5 stages.
 
 ***
 # Stage 1
- ![Stage one of Stellite poisoning-min.png](/img/user/Stage%20one%20of%20Stellite%20poisoning-min.png)
- >[!Transcript] 
+![Stage one stellite.png](/img/user/Stage%20one%20stellite.png)
+  >[!Transcript] 
  >The first stage of Stellite poisoning is that of burns across the skin, unlike burns 
 caused by fire natural ointments created from mushrooms dont generally work. 
 This stage however is the least dangerour of the lot. 
