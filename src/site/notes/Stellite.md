@@ -21,4 +21,13 @@ This is unfortunately just a  theory because of the restriction of the usage and
 ***
 ## Ramifications
 
-When this material fell from the sky not only did it devastate [[Landscape\|regions]] by impacting them, it also warded away creatures due to the psychic effects and those not quick enough were mutated into hideous creatures. This has created ecological dead zones called [[Crypts\|Crypts]]. These zones are not barren of terrain features or even cities they are just devoid of natural life. These [[Crypts\|Crypts]] can be formed for a number of reasons one of them being the presence of [[The Umbra\|The Umbra]] a silvery black mist that shares similar properties to Stellite but in a much larger area and to a weaker effect. Another reason for these [[Crypts\|Crypts]] can be the presence  
+When this material fell from the sky not only did it devastate [[Landscape\|regions]] by colliding with them, it also warded away creatures due to the psychic effects. Those not quick enough were mutated into hideous creatures far beyond recognition. This has created ecological dead zones commonly called [[Crypts\|Crypts]]. These zones are not barren of terrain features or even cities they are just devoid of natural life. These [[Crypts\|Crypts]] can be formed for a number of reasons one of them being the presence of [[The Umbra\|The Umbra]], a silvery black mist that shares similar properties to Stellite but in a much larger area and to a weaker effect. Another reason for these [[Crypts\|Crypts]] can be the presence of large shards of Stellite causing effects similar to radiation. 
+
+Stellite on a micro scale when coming in contact with or in the presence of organic life will generally mutate and corrupt the being it is near. A small amount of this corruption is not deadly but can quickly get out of hand if not properly tended too.
+This corruption progresses in 5 stages.
+
+***
+> Stage 1
+
+
+However over time there have been some minor breakthroughs in the strange material that can slow the effect of this material on the body. Filters can be added to masks to cleanse the air of [[The Umbra\|The Umbra]] at least partially however for this effect to work these masks require a small sacrifice of blood to attune to the user. This in combination with other herbs and magics placed within the mask grant a brief reprieve from [[The Umbra\|The Umbra]] allowing short excursions into [[The Umbra\|The Umbra]] (generally1-2 hours). After this 
