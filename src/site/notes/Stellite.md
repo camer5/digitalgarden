@@ -27,7 +27,32 @@ Stellite on a micro scale when coming in contact with or in the presence of orga
 This corruption progresses in 5 stages.
 
 ***
-> Stage 1
+# Stage 1
+ ![Stage one of Stellite poisoning-min.png](/img/user/Stage%20one%20of%20Stellite%20poisoning-min.png)
+ >[!Transcript] 
+ >The first stage of Stellite poisoning is that of burns across the skin, unlike burns 
+caused by fire natural ointments created from mushrooms dont generally work. 
+This stage however is the least dangerour of the lot. 
+These burns are generally cuase red anb black marks across the skin as small sections
+of the body become partially corrupted. This comes with other minor sideffects like: 
+nausea, vomiting, itching, mild headaches and minor psychic damage 
+(manifesting as whispering or early stages of insanity).
+However these symptoms can be reversed if proper and quick care is taken. 
+A dosage of:Clear water infused with 3oz of limolean extract, 15g of pulverised 
+palladium, 3 charred lions mane mushrooms and 20oz of quick silver. To be taken once before rest and twice after 
+[[Proffessor Cuperthwait\|Proffessor Cuperthwait]] 
+
+***
+
+# Stage 2
+
+
+
+
+
+
+
+
 
 
 However over time there have been some minor breakthroughs in the strange material that can slow the effect of this material on the body. Filters can be added to masks to cleanse the air of [[The Umbra\|The Umbra]] at least partially however for this effect to work these masks require a small sacrifice of blood to attune to the user. This in combination with other herbs and magics placed within the mask grant a brief reprieve from [[The Umbra\|The Umbra]] allowing short excursions into [[The Umbra\|The Umbra]] (generally1-2 hours). After this 
