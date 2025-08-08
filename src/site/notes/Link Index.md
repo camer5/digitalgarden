@@ -15,6 +15,7 @@ Any link that has a "X" next to it is currently accessible and contains informat
 - [[Cearus\|Cearus]]
 - [[Umbra Vistryn\|Umbra Vistryn]]
 - [[Thastar gulvack\|Thastar gulvack]]
+- [[Carrion\|Carrion]]
 ## Events
 
 - [[The Day Of Oblivion\|The Day Of Oblivion]]
@@ -38,13 +39,13 @@ Any link that has a "X" next to it is currently accessible and contains informat
 
 ## Relics
 
-- [[Stellite\|Stellite]]
+- [[Stellite\|Stellite]] X
 ## Useful Information
 
 - [[Coinage\|Coinage]]
 - [[Cults\|Cults]]
-- [[Landscape\|Landscape]]
-- [[Sun\|Sun]]
+- [[Landscape\|Landscape]] X
+- [[Sun\|Sun]] X
 - [[Seed of evil\|Seed of evil]]
 
 ## Rumours

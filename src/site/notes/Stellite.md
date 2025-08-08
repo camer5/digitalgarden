@@ -8,10 +8,25 @@
 
 ![Stellite picture compressed.png](/img/user/Stellite%20picture%20compressed.png)
 ***
-
 ## An overview
 
 Stellite appears to be a metal with otherworldly properties. Many of which are unfavourable to the living. However this material possesses a latent energy within the structure of the metal that makes the use of this material very beneficial. But due to many laws and legislations the usage or even possession of this [[Materials of Palladius\|metal]] has been forbidden and is punishable by death. The [[The Magistrates \|council]] came to this conclusion within the fist years after  [[The Day Of Oblivion\|The Day Of Oblivion]]. 
+***
+## Description
+
+Not many people live to tell the tale when it comes to Stellite so our understanding and study of the material is very limited due to both its corrupting nature but also its presence in the eyes of [[The Magistrates\|The Magistrates]]. However a couple of accounts have been gathered.
+
+> <span style="color:rgb(112, 48, 160)"> "I remember walking down the corridor as that feeling in my stomach grew stronger almost as if something was grasping at it and twisting. </span> 
+><span style="color:rgb(112, 48, 160)">Then finally I came into a large cathedral hall as at the opposite end I could feel it. As soon as my eyes met the ebony surface of this material I could feel my mind racing as whispers rattled around my head causing an irresistible itch across my body stunning me.</span>
+><span style="color:rgb(112, 48, 160)">I could feel it piercing my consciousness as I noticed that in my stupor my body had been moving of its own accord. Standing a rooms width closer to the large chunk of material I could see horrors of which I daren't repeat.</span> 
+><span style="color:rgb(112, 48, 160)">The surface of the material was reflective almost like glass, a gloss that was so unnatural yet the surface behind it was endless. A void of which that seemingly never ended a black so true nothing could compare. Across its black form there were craters that only were visible as it caught the light permeating through the muddied windows.</span> 
+><span style="color:rgb(112, 48, 160)">It was at that point I could stand it no longer I ripped myself from the temptation forcefully. I gouged into my eye to flood my system with pain in the hopes to relinquish its hold on me. For a moment and only a moment I was free of the temptation and I ran.</span>
+><span style="color:rgb(112, 48, 160)">As I retreated my skin began to burn with a sensation of which I had never felt. It was as if the entirety of my skin was on fire with seemingly no damage. My movements became weak as I could feel the organs within my form shifting as a similar pain began to set within me as well. </span>
+><span style="color:rgb(112, 48, 160)">I fear if I were not a mutant kin myself there would have been no chance for me. However even with this lifeline I barely survived and if it weren't for my squad there would have been no hope for me." </span>
+
+This was an excerpt from an interview with [[Carrion\|Carrion]] one of the [[ArchBishops\|ArchBishops]] of [[The Martyrs\|The Martyrs]]. 
+
+As stated this material is stated to have a black form with a glass like gloss. Its surface is pitted with craters and generally it is found in shards that have a sharpness akin to broken obsidian. 
 ***
 ## Origins
 
@@ -105,4 +120,34 @@ I know. For Estelle's sake RUN
 
 ***
 
-However over time there have been some minor breakthroughs in the strange material that can slow the effect of this material on the body. Filters can be added to masks to cleanse the air of [[The Umbra\|The Umbra]] at least partially however for this effect to work these masks require a small sacrifice of blood to attune to the user. This in combination with other herbs and magics placed within the mask grant a brief reprieve from [[The Umbra\|The Umbra]] allowing short excursions into [[The Umbra\|The Umbra]] (generally1-2 hours). After this 
+## Prevention
+
+There are no ways known as of yet to fully prevent the effects or Stellite or contain them However over time there have been some minor breakthroughs in the strange material that can slow the effect of this material on the body. 
+Filters can be added to masks to cleanse the air of [[The Umbra\|The Umbra]] at least partially however for this effect to work these masks require a small sacrifice of blood to attune to the user. This in combination with other herbs and magics placed within the mask grant a brief reprieve from [[The Umbra\|The Umbra]] allowing short excursions into [[The Umbra\|The Umbra]] (generally1-2 hours). After this the mask becomes ineffective meaning that normal side effects will take place. 
+
+In regards to containment of Stellite there is no current way to fully contain the material but there is ways to dampen its effect. Generally thick walls of lead or palladium can severely dampen the materials corrupting effect but this doesn't prevent the twisting of the mind and the insanity this material causes. 
+As of current cities have found burying the material deep in the crust of the plane beneath the city or far away from the city is the best way to remove this material from grasp. 
+These dumping zones are generally called [[Exclusion zones\|Exclusion zones]] and are heavily guarded to prevent this material getting into the wrong hands. 
+
+***
+
+# Rumours
+
+#### Stellite Power
+
+It is rumoured by many people that if cautiously ingested in small amounts this material can grant power and strength without most of the major downsides of the material. As this material is heavily guarded and illegal to own never mind ingest, not many people confirm whether this is true but there are a large number of missing people cases.
+
+#### Strange Voices
+
+Across the many counts of people being partially corrupted across [[Palladius\|Palladius]] there have been a select few who say they heard an actual voice talking to them not just nonsensical whispering. They describe it as a deep reverberating voice that makes them sick to their stomach. This voice is said to be the reason many people commit some form of crime when experiencing Stellite corruption, as it mutters words of command to them. However nothing as of current has been confirmed.
+
+***
+
+Useful links
+
+- [[Link Index\|Link Index]]
+- [[Palladius\|Palladius]]
+- [[Cities of Palladius\|Cities of Palladius]]
+- [[The Stygian City\|The Stygian City]]
+- [[The Magistrates\|The Magistrates]]
+
