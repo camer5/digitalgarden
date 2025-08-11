@@ -9,7 +9,7 @@
 
 ***
 
-Across [[All/Palladius\|Palladius]] there is no true sunlight... not any more. Ever since [[All/The Day Of Oblivion\|The Day Of Oblivion]] where [[All/Estelle\|Estelle]] was destroyed no sunlight has shone across this plane. A constant shroud of twilight echoes across the plane as the only thing that remains is the corpse of [[All/Estelle\|Estelle]].
+Across [[All/Palladius\|Palladius]] there is no true sunlight... not any more. Ever since [[All/The Day Of Oblivion\|The Day Of Oblivion]] where [[All/Estelle\|Estelle]] was destroyed, no sunlight has shone across this plane. A constant shroud of twilight echoes across the plane as the only thing that remains is the corpse of [[All/Estelle\|Estelle]].
 
 Upon the death of [[All/Estelle\|Estelle]] any form of daylight cycle has ceased to be rendering some of this plane in a permanent darkness and the rest in a chilling light. This little remaining light that mortality clings to is the little light that is shed from the corpse of [[All/Estelle\|Estelle]]. It is proposed that due to being a divine entity her corpse itself naturally produces a small amount of light. This light however is insufficient for most if not all regular surface plants to survive upon permanently altering the [[All/Landscape\|Landscape]] of [[All/Palladius\|Palladius]]. This in turn has meant a drastic change to the plant life and [[All/Daily life\|Daily life]] of the average inhabitancy of this plane. 
 

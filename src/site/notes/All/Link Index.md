@@ -26,6 +26,7 @@ Any link that has a "X" next to it is currently accessible and contains informat
 - [[All/Palladius\|Palladius]]
 - [[All/The Stygian City\|The Stygian City]]
 - [[All/Irongrave\|Irongrave]]
+- [[All/Ceres\|Ceres]]
 - [[All/Cities of Palladius\|Cities of Palladius]]
 ## Guilds
 
