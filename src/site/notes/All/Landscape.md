@@ -23,7 +23,10 @@ To adventure into this plane is to explore and to find both wonders and horrors 
 ## The black desert
 
 Due to the nature of this plane and its [[All/Sun\|Sun]] half of this plane is surrounded in constant darkness. This is because of the lack of a daylight cycle meaning that the [[All/Sun\|Sun]] no longer moves across the sky to bless even the remnants of its power upon the ground. This creates a zone perfect for [[All/The forces of the night\|The forces of the night]] to flourish. This side of the plane is called [[All/The Black desert\|The Black desert]] and it is a side of the plane that no mortal should ever travel too as it is certain to cut their life short. 
+***
+## The Organic City
 
+A decade ago the city of [[All/Ceres\|Ceres]] fell due to the outbreak of an immense level [[All/Star Spawn\|Star Spawn]] ravaging not only the city but the surrounding land. For miles around this city a large exclusion zone has been formed. This exclusion zone has been created as although much weaker this [[All/Star Spawn\|Star Spawn]] can attack and watch all those who pass through its influence. 
 ***
 
 ## Crypts
@@ -31,7 +34,6 @@ Due to the nature of this plane and its [[All/Sun\|Sun]] half of this plane is s
 Upon the day [[All/Estelle\|Estelle]] fell [[All/Stellite\|Stellite]] and its [[All/The Umbra\|counterpart]] created zones now dubbed as [[All/Crypts\|Crypts]]. These [[All/Crypts\|Crypts]] ward away life with their mutagenic powers creating barren zones where nothing now lives and is excruciatingly quiet. 
 
 These zones have no rhyme or reason for their positioning and are just where these forces fell. However [[All/The Umbra\|Umbra]] patches have a tendency to wander.
-
 ***
 # Rumours
 
