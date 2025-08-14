@@ -4,15 +4,15 @@
 
 # The Creeping Mass
 
-![shoggoth_by_tomoki17_dbw9osq-fullview.jpg](/img/user/shoggoth_by_tomoki17_dbw9osq-fullview.jpg)
+![shoggoth_by_tomoki17_dbw9osq-fullview.jpg](/img/user/All/shoggoth_by_tomoki17_dbw9osq-fullview.jpg)
 ***
 ## Overview
+
 The Creeping Mass is one of the only known immense level star spawn. A creature of massive size spanning miles in width centred upon the destroyed city of [[All/Ceres\|Ceres]]. It isn't known how this creature came to be only that it originated from [[All/Ceres\|Ceres]] and proceeded to take over the city and the surrounding land. 
 
 The Creeping Mass is a forest of flesh and bone that grows and changes every second of every day. Bursting from the city of [[All/Ceres\|Ceres]] it consumes all life it encounters adding it to the mass of jabbering mouths and eyes. It may have been a creature once but now has mutated so far beyond the normal limits that it has become a collection of illogical and irrational limbs interconnected with sinew and bone. This mass is seemingly infinite as the more you cut away the stronger it becomes, regenerating any lost mass indefinitely. 
 
 The city of [[All/Ceres\|Ceres]] now more resembles that of a labyrinth of bone and flesh like that of the internals of a living being however with a form so asinine its impossible to comprehend. 
-
 ***
 ## Witness Statement
 ><span style="color:rgb(112, 48, 160)"><span style="color:rgb(112, 48, 160)">"It burst from the ground and within a matter of seconds covered the Smithy district</span>" </span>
