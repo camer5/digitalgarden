@@ -61,7 +61,7 @@ Useful links
 - [[All/Link Index\|Link Index]]
 - [[All/Palladius\|Palladius]]
 - [[All/Cities of Palladius\|Cities of Palladius]]
--  [[All/The Stygian City\|The Stygian City]]
+- [[All/The Stygian City\|The Stygian City]]
 
 
 
