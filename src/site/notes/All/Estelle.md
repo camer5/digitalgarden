@@ -52,7 +52,7 @@ Furthermore, many believe that these 3 sisters are the face sides of the [[All/C
 
 There are many [[All/Cults\|Cults]] and religions within [[All/Palladius\|Palladius]] however the [[All/Cults\|cult]] that proves to be most plausible is [[All/The Cult Of The Eclipse\|The Cult Of The Eclipse]]. It is said that this cult is trying to find a way to resurrect the dead body of Estelle to grant prosperity to [[All/Palladius\|Palladius]] once more.  
 
-This [[All/Cults\|cult]] is sited to be one of the possible reasons for a couple of disappearances within [[All/The Stygian City\|The Stygian City]] and potentially the disappearance of [[All/Cearus\|Cearus]] the [[All/Tieflings of Palladius\|Tiefling]] noble.  
+This [[All/Cults\|cult]] is sited to be one of the possible reasons for a couple of disappearances within [[All/The Stygian City\|The Stygian City]] and potentially the disappearance of [[All/Arscal\|Arscal]] the elven noble.  
 
 ***
 

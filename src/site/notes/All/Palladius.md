@@ -24,8 +24,15 @@ A brief period of triumph was had celebrating the great return of [[All/Estelle\
 What is left of Palladius now clings onto life within bastions and fortresses however one stands far taller than the rest. [[All/The Stygian City\|The Stygian City]], what is now deemed to be the last hope of mortality, holds mysteries untold. 
 
 ***
+# Player Session Notes
 
- If you wish to search for specific information head to the [[All/Link Index\|Link Index]]
+This is a little index of the notes you as the players have made for each session and between sessions I will choose a player to come up with a description of what happened in that session:
+
+## [[Player Session Notes/Session note index\|Session note index]]
+***
+# Article Index
+ 
+ If you wish to search for specific information, head to the [[All/Link Index\|Link Index]] where you will be able to search all of the information that you as the players would know about, however keep in mind this is the information you as Characters know so some information may be false or not complete as of yet.
 
 
 

@@ -12,7 +12,7 @@ Any link that has a "X" next to it is currently accessible and contains informat
 ## Npcs
 
 - [[All/Estelle\|Estelle]] X
-- [[All/Cearus\|Cearus]]
+- [[All/Arscal\|Arscal]]
 - [[All/Umbra Vistryn\|Umbra Vistryn]]
 - [[All/Thastar gulvack\|Thastar gulvack]]
 - [[All/Carrion\|Carrion]]
