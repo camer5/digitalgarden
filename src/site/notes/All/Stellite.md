@@ -24,13 +24,13 @@ Not many people live to tell the tale when it comes to Stellite so our understan
 ><span style="color:rgb(112, 48, 160)">As I retreated my skin began to burn with a sensation of which I had never felt. It was as if the entirety of my skin was on fire with seemingly no damage. My movements became weak as I could feel the organs within my form shifting as a similar pain began to set within me as well. </span>
 ><span style="color:rgb(112, 48, 160)">I fear if I were not a mutant kin myself there would have been no chance for me. However even with this lifeline I barely survived and if it weren't for my squad there would have been no hope for me." </span>
 
-This was an excerpt from an interview with [[All/Carrion\|Carrion]] one of the [[All/ArchBishops\|ArchBishops]] of [[All/The Martyrs\|The Martyrs]]. 
+This was an excerpt from an interview with [[Npcs/Carrion\|Carrion]] one of the [[All/ArchBishops\|ArchBishops]] of [[All/The Martyrs\|The Martyrs]]. 
 
 As stated this material is stated to have a black form with a glass like gloss. Its surface is pitted with craters and generally it is found in shards that have a sharpness akin to broken obsidian. 
 ***
 ## Origins
 
-This metal is believed to have be formed when the goddess [[All/Estelle\|Estelle]] ruptured into a billion pieces. Upon rupturing their body and essence solidified into a metallic substance. However due to the presence of the [[All/Seed of evil\|Seed of evil]] bound to [[All/Estelle\|Estelle]]'s essence it created a twisted element formed of the combination of [[All/Estelle\|Estelle]]'s power and the corrupting and mutating energies presumed to be within this very [[All/Seed of evil\|seed]]. 
+This metal is believed to have be formed when the goddess [[Npcs/Estelle\|Estelle]] ruptured into a billion pieces. Upon rupturing their body and essence solidified into a metallic substance. However due to the presence of the [[All/Seed of evil\|Seed of evil]] bound to [[Npcs/Estelle\|Estelle]]'s essence it created a twisted element formed of the combination of [[Npcs/Estelle\|Estelle]]'s power and the corrupting and mutating energies presumed to be within this very [[All/Seed of evil\|seed]]. 
 
 This is unfortunately just a  theory because of the restriction of the usage and possession of the material by [[All/The Magistrates\|The Magistrates]] meaning legal research is impossible. Although these rulings do not scare some people and they proceed anyways.
 ***
@@ -55,7 +55,7 @@ nausea, vomiting, itching, mild headaches and minor psychic damage
 However these symptoms can be reversed if proper and quick care is taken. 
 A dosage of:Clear water infused with 3oz of limolean extract, 15g of pulverised 
 palladium, 3 charred lions mane mushrooms and 20oz of quick silver. To be taken once before rest and twice after 
-[[All/Professor Cuperthwait\|Professor Cuperthwait]] 
+[[Npcs/Professor Cuperthwait\|Professor Cuperthwait]] 
 
 ***
 
@@ -73,7 +73,7 @@ of power but ever so slightly over the line and the symptoms begin a harsh runaw
 effect where the user craves more of this material or exposure to it.
 The symptoms of this are generally the same but to a much more severe degree this 
 however is the  last stage in which this is true    
-[[All/Professor Cuperthwait\|Professor Cuperthwait]]
+[[Npcs/Professor Cuperthwait\|Professor Cuperthwait]]
 
 ***
 
@@ -87,7 +87,7 @@ Symptoms:
 Upon the body sections of their form will become black and leathery or show signs of this nature under the skin. Spikes of stellite or other organic matter (e.g. bone, cartilage, hardened skin or even a nail like material)rupture the skin leaving lacerations at their  breach point. Around this area the skin begins to peel and shed as it decays and perishes, this manifests as redness and open wounds. 
 Generally at this point the digits or extremities of the person will blacken and in most cases form sharp boney talons. With these talons the subject will claw at the skin creating further wounds. Finally the subject will become  unresponsive to conversation as the madness fully manifests as they become inconsolable and  violent. I would advise permanent restrainment/imprisonment and a mercy execution. This  prevents anyone else being injured by this creature.
 If not properly contained as soon as a creature reaches this stage then they will progress to tier 4 of their corruption  and this must be avoided at all costs!
-[[All/Professor Cuperthwait\|Professor Cuperthwait]]
+[[Npcs/Professor Cuperthwait\|Professor Cuperthwait]]
 
 ***
 # Stage 4
@@ -98,7 +98,7 @@ If somehow a creature manages to make it to this stage within the corruption pro
 As for the mutation itself in its incomplete form there are hopes to Stall it. When I say this do not think of this as hope there is no chance for these creatures at this point. If you are to utter something of significant value to the creature from before the mutation takes hold it may give you a brief moment to attack unhindered but after you use this opportunity the likelihood that you will get this chance again dwindles to near impossible.  
 When this deep into the mutation the mind is effectively deceased as the corruption takes hold. The body will begin to mutate twisting the form and creating extra appendages or other features all over the body with seemingly no reason. Parts of the body will tear to make way for new organs or to extend the creatures reach, blades and spikes burst from the skin making it deadly in combat as their muscles grow ten times in strength. 
 All I can say is if you are ever in an encounter with one of these creatures do not show mercy and do not hesitate to put this creature down.         
-[[All/Professor Cuperthwait\|Professor Cuperthwait]] 
+[[Npcs/Professor Cuperthwait\|Professor Cuperthwait]] 
 
 ***
 # Stage 5

@@ -10,7 +10,7 @@
 
 [[All/Palladius\|Palladius]] was once a landscape of untold riches and bounty flourishing with nature and fauna dotted with towering cities and settlements of untold size. There wasn't a place upon [[All/Palladius\|Palladius]] that you couldn't thrive and do whatever you wished. The marvel that was this plane was often shown with the strange magical devices, spells, technology and more but that all changed upon [[All/The Day Of Oblivion\|The Day Of Oblivion]].
 
-Now however [[All/Palladius\|Palladius]] is a barren wasteland of large stony deserts separated by [[All/Gravewoods\|Gravewoods]] and towering ruins. Not only did the god [[All/Estelle\|Estelle]] die upon that fateful day but the plane itself. 
+Now however [[All/Palladius\|Palladius]] is a barren wasteland of large stony deserts separated by [[All/Gravewoods\|Gravewoods]] and towering ruins. Not only did the god [[Npcs/Estelle\|Estelle]] die upon that fateful day but the plane itself. 
 
 The terrain fractured in a temper tantrum as fissures opened and with them came [[All/The forces of the night\|The forces of the night]]. Pouring out of these cracks were creatures unseen before this and only rumoured in history books of a time long since past. 
 
@@ -31,7 +31,7 @@ A decade ago the city of [[All/Ceres\|Ceres]] fell due to the outbreak of an imm
 
 ## Crypts
 
-Upon the day [[All/Estelle\|Estelle]] fell [[All/Stellite\|Stellite]] and its [[All/The Umbra\|counterpart]] created zones now dubbed as [[All/Crypts\|Crypts]]. These [[All/Crypts\|Crypts]] ward away life with their mutagenic powers creating barren zones where nothing now lives and is excruciatingly quiet. 
+Upon the day [[Npcs/Estelle\|Estelle]] fell [[All/Stellite\|Stellite]] and its [[All/The Umbra\|counterpart]] created zones now dubbed as [[All/Crypts\|Crypts]]. These [[All/Crypts\|Crypts]] ward away life with their mutagenic powers creating barren zones where nothing now lives and is excruciatingly quiet. 
 
 These zones have no rhyme or reason for their positioning and are just where these forces fell. However [[All/The Umbra\|Umbra]] patches have a tendency to wander.
 ***
