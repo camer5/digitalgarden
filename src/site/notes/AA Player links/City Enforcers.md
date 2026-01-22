@@ -3,7 +3,7 @@
 ---
 
 # City Enforcers
-![Pasted image 20260122174405.png|right|300](/img/user/Images/Pasted%20image%2020260122174405.png) 
+![Pasted image 20260122174405.png|center|300](/img/user/Images/Pasted%20image%2020260122174405.png) 
 ***
 
 The Guard within the city generally are a mix of mercenaries and other under skilled individuals. This force is in place to help maintain the peace and handle petty measures within the city. Another important part of their job within the city is to guard the checkpoints between [[AA Player links/The Stygian City#City Structure\|districts]] and ensure that anyone passing by is meant to be there. Because of this it has lead to mass corruption within the force as this guild is underfunded and generally unable to stay fully afloat due to the presence of [[AA Player links/The Martyrs\|The Martyrs]]. 
@@ -13,5 +13,5 @@ Whenever encountering any form of force or case the city enforcers will generall
 One of the main reasons this rivalry is so important to the city enforcers is that any case completed by a guild will be rewarded with gold in recompense for the expenditure of resources. Therefore whenever a case is taken from the city enforcers money is also taken thus causing the anguish. 
 
 
-![Pasted image 20260122181054.png|right|300](/img/user/Pasted%20image%2020260122181054.png)
-This guild is bankrolled and also directed by an individual called [[Augustus Halt\|Augustus Halt]] 
+![Pasted image 20260122181054.png|right|300](/img/user/Images/Pasted%20image%2020260122181054.png)
+This guild is bankrolled and also directed by an individual called [[Npcs/Augustus Halt\|Augustus Halt]] 
