@@ -72,7 +72,7 @@ Any link that has a "X" next to it is currently accessible and contains informat
 - [[AA Player links/Low light foods\|Low light foods]]
 - [[AA Player links/Food centres\|Food centres]]
 - [[AA Player links/Exclusion zones\|Exclusion zones]]
-- [[AA Player links/City Enforcers\|City Enforcers]]
+- [[AA Player links/City Enforcers\|City Enforcers]] X
 - [[AA Player links/Materials of Palladius\|Materials of Palladius]]
 - [[AA Player links/Offering centre\|Offering centre]]
 - [[AA Player links/Sister religions\|Sister religions]]
