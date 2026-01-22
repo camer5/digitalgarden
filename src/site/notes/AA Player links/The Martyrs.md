@@ -10,7 +10,7 @@
 ## General
 The Martyrs guild is the most influential power within [[AA Player links/The Stygian City\|The Stygian City]] even acting above the martial law. This organisation functions as a monster hunters guild to hunt [[AA Player links/The forces of the night\|The forces of the night]] and persuade, divert and lead operations against [[AA Player links/Star Spawn\|Star Spawn]]. Ever since [[AA Player links/The Stygian Sepulchre\|The Stygian Sepulchre]] materialized the Martyrs guild has been present seeming coming from unknown origins. Although mysterious this guild has provided and produced a safe zone through continuous and operations into the wilderness to repel threats.
 
-Not much is known about the upper inner workings of this organisation due to the serious amount of obfuscation and secrets within the guild. Their guild leader, known only as [[AA Player links/The Herald\|The Herald]] is responsible for all actions within the guild and general actions. However within the guild not a soul other than a very select few have ever seen [[AA Player links/The Herald\|The Herald]]' face and the only one that is known is known as [[AA Player links/The Emissary\|The Emissary]]. Within [[AA Player links/The Magistrates\|The Magistrates]], [[AA Player links/The Emissary\|The Emissary]] acts as a face for the organisation funnelling all information to and from [[AA Player links/The Herald\|The Herald]] meaning not even [[AA Player links/The Magistrates\|The Magistrates]] know who this [[AA Player links/The Herald\|Mistress]] is. These very secrets give power over the rest of [[AA Player links/The Magistrates\|The Magistrates]] however cause tensions often causing resentment towards the guild. 
+Not much is known about the upper inner workings of this organisation due to the serious amount of obfuscation and secrets within the guild. Their guild leader, known only as [[AA Player links/The Herald\|The Herald]] is responsible for all actions within the guild and general actions. However within the guild not a soul other than a very select few have ever seen [[AA Player links/The Herald\|The Herald]]' face and the only one that is known is known as [[AA Player links/The Emissary\|The Emissary]]. Within [[AA Player links/The Magistrates\|The Magistrates]], [[AA Player links/The Emissary\|The Emissary]] acts as a face for the organisation funnelling all information to and from [[AA Player links/The Herald\|The Herald]] meaning not even [[AA Player links/The Magistrates\|The Magistrates]] know who this [[AA Player links/The Herald\|The Herald]] is. These very secrets give power over the rest of [[AA Player links/The Magistrates\|The Magistrates]] however cause tensions often causing resentment towards the guild. 
 
 The guild operates through a form of donations and taxes put upon the people within the city as a form of protection. Whenever a raid is conducted or an area cleared for the city donation collectors go around the city and for the average citizen a base rate of tax is applied directly to the wages acting as a form of income for the guild and its members. However an individual with enough money can apply for a higher rate to gain priority protection or even to have personal guards specifically stationed by the guild. 
 
@@ -30,4 +30,11 @@ Acolytes are the lower tier of soldier within [[AA Player links/The Martyrs\|The
 ### Monks
 Monks within [[AA Player links/The Martyrs\|The Martyrs]] guild act as a form of involvement that doesn't require combat. These individuals have a merit based system granting them higher and higher rank based upon performance. These roles often include some form of book keeping or quartermaster work often performing errands for [[AA Player links/ArchBishops\|ArchBishops]] almost acting similar to a squire.
 
-<!-- platinum is referred to as the mistress or the herald and the person directly under her is the person on the magistrates council and they are referred to as the emissary-->
+***
+Useful links
+
+- [[AA Player links/Link Index\|Link Index]]
+- [[AA Player links/Palladius\|Palladius]]
+- [[Player Session Notes/Session 2\|Session 2]]
+- [[AA Player links/The Stygian City\|The Stygian City]]
+- [[Npcs/Aquilan wyntris\|Aquilan wyntris]]

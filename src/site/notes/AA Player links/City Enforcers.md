@@ -14,4 +14,17 @@ One of the main reasons this rivalry is so important to the city enforcers is th
 
 
 ![Pasted image 20260122181054.png|right|300](/img/user/Images/Pasted%20image%2020260122181054.png)
-This guild is bankrolled and also directed by an individual called [[Npcs/Augustus Halt\|Augustus Halt]] 
+This guild is bankrolled and also directed by an individual called [[Npcs/Augustus Halt\|Augustus Halt]] who manages all of the movement of funding and decided how much people are paid. [[Npcs/Augustus Halt\|Augustus Halt]] also manages any sort of meeting that may happen within the guilds of the city but due to his guild currently being less influential than others, it is not upon [[AA Player links/The Magistrates\|The Magistrates]] table. 
+<br>
+<br>
+<br>
+<br>
+
+***
+Useful links
+
+- [[AA Player links/Link Index\|Link Index]]
+- [[AA Player links/Palladius\|Palladius]]
+- [[AA Player links/The Magistrates\|The Magistrates]]
+- [[AA Player links/The Stygian City\|The Stygian City]]
+- [[AA Player links/City Enforcers\|City Enforcers]]
