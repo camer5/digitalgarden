@@ -35,7 +35,7 @@ This is a little index of the notes you as the players have made for each sessio
 # Player Characters
 
 This is just a small section to link to all of the different player characters in the campaign and what the table knows of them and who they are.
-- [[The Players/Clara-Sammy\|Clara-Sammy]]
+- [[The Players/Cora-Sammy\|Cora-Sammy]]
 - [[The Players/Kai-Abbey\|Kai-Abbey]]
 - [[The Players/Sakaria-Tamara\|Sakaria-Tamara]]
 - [[The Players/Olin-Ellis\|Olin-Ellis]]
